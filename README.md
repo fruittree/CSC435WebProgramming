@@ -14,7 +14,8 @@ We will examine several technologies in various depths, though our majority of t
 <li>HyperText Markup Language (HTML) for authoring web pages
 <li>Cascading Style Sheets (CSS) for supplying stylistic information to web pages 
 <li>JavaScript and its libraries (jQuery, D3) for creating interactive web pages 
-<li>PHP Hypertext Processor for generating dynamic pages on a web server 
+<li> Servers, NodeJS and Express 	
+<li> PHP Hypertext Processor for generating dynamic pages on a web server 
 <li>Asynchronous JavaScript and XML (Ajax) for enhanced web interaction and applications 
 <li>JSON for transferring data
 <li>Structured Query Language (MySQL) for interacting with databases
