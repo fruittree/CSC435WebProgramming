@@ -22,8 +22,11 @@ We will examine several technologies in various depths, though our majority of t
 </ul>
 
 <h2>Lecture slides and demo codes:</h2>
-<a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture1.pdf">Lecture 1</a>  Introduciton to Internet and the web. 
+<p><a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture1.pdf">Lecture 1</a>  Introduciton to Internet and the web.</p> 
+
+<p>
 <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture2.pptx">Lecture 2</a>HTML Basics. 
+</p>
 
 <h2>Homeworks</h2>
 
