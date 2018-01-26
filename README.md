@@ -29,7 +29,7 @@ We will examine several technologies in various depths, though our majority of t
 </p>
 
 <p>
-<a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture3.pdf">Lecture 3</a> HTML Basics. 
+<a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture3.pdf">Lecture 3</a> CSS Basics. 
 </p>
 <h2>Homeworks</h2>
 
