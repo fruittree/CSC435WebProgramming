@@ -35,6 +35,10 @@ We will examine several technologies in various depths, though our majority of t
 <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture4.pdf">Lecture 4</a> CSS Selectors, Class, ID. 
 </p>
 
+<p>
+<a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture5.pdf">Lecture 5</a> CSS Box Model. 
+</p>
+
 <h2>Homeworks</h2>
 <p>
 <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Homework/Homework1_assignment/Homework1Spec.pdf">Project 1</a> Recipe. 
