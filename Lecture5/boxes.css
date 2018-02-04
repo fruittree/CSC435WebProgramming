@@ -1,0 +1,27 @@
+/*
+div.block{
+    height:200px;
+    width:200px;
+    background-color: limegreen;
+}
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+
+#outer-box {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  border: 50px solid red;
+}
+
+#inner-box {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
