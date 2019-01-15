@@ -1,4 +1,4 @@
-# CSC435: Web Programming
+# CSC435: Web Programming by Prof.Bei Xiao
 
 This repository contains lecture slides, the homework solutions, and in-class demos used in CSC 435, Web Programming, taught at American University in DC, by Professor Bei Xiao. 
 
