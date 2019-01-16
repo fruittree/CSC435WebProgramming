@@ -1,6 +1,5 @@
 ## Web Programming 
 
-
 ### CSC 435 Spring, 2019
 
 Instructor: <a href="https://sites.google.com/site/beixiao/">Bei Xiao</a>, American University
@@ -71,7 +70,7 @@ Assignments must be submitted by the due date to receive credits.
 Each late homework will receive 5% automatic reduction for each late day. No homework is accepted 5 days after the due date. 
 
 
-<h3>Course Schedule</h3></center>
+# Course Schedule
 
 Day | Lecture | Reading    | Homeworks
 ------- | ---------------- | ---------- | ---------:
