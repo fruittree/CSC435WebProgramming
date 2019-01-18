@@ -74,5 +74,5 @@ Each late homework will receive 5% automatic reduction for each late day. No hom
 
 Day | Lecture | Reading    | Homeworks
 ------- | ---------------- | ---------- | ---------:
-|Tuesday, Jan 15 | Internet and Web | Getting Started With The Web (https://www.google.com)| Homework 1(receipe) out|
+|Tuesday, Jan 15 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture1.pdf">Internet and Web </a> | Getting Started With The Web (https://www.google.com)| Homework 1(receipe) out|
 |Friday, Jan 18 | HTML | Intro to HTML (https://developer.mozilla.org/en-US/docs/Learn/HTML)|Creative Project Week 1|
