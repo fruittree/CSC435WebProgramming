@@ -76,8 +76,8 @@ Day | Lecture | Reading    | Homeworks
 ------- | ---------------- | ---------- | ---------:
 |Tuesday, Jan 15 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture1.pdf">Lecture 1: Internet and Web </a> | Getting Started With The Web (https://www.google.com)| Homework 1(receipe) out|
 |Friday, Jan 18 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture2.pdf">Lecture 2: HTML </a>| Intro to HTML (https://developer.mozilla.org/en-US/docs/Learn/HTML)|Creative Project Week 1|
-|Friday, Jan 25 | <a href="https://github.com/fruittree/CSC435WebProgramming/tree/master/Lecture3.pdf">Lecture 3: CSS Selectors </a>| CSS selectors (https://developer.mozilla.org/en-US/docs/Learn/HTML)||
-|Tuesday, Jan 29 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture4.pdf">Lecture 4: CSS IDs </a>| CSS: IDs and Classes (https://developer.mozilla.org/en-US/docs/Learn/HTML)|In-Class: resume.html|
-|Friday, Feb 1 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture5.pdf">Lecture 5: CSS box model </a>| CSS Box model (https://developer.mozilla.org/en-US/docs/Learn/HTML)||
-|Tuesday, Feb 5 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture6.pdf">Lecture 6: CSS lay-out </a>| CSS lay-out (https://developer.mozilla.org/en-US/docs/Learn/HTML)|Homework 2 (movie review)|
+|Friday, Jan 25 | <a href="https://github.com/fruittree/CSC435WebProgramming/tree/master/Lecture3.pdf">Lecture 3: CSS Selectors </a>| CSS selectors (https://developer.mozilla.org/en-US/docs/Learn/CSS)||
+|Tuesday, Jan 29 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture4.pdf">Lecture 4: CSS IDs </a>| CSS: IDs and Classes (https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)|In-Class: resume.html|
+|Friday, Feb 1 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture5.pdf">Lecture 5: CSS box model </a>| CSS Box model (https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)||
+|Tuesday, Feb 5 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture6.pdf">Lecture 6: CSS lay-out </a>| CSS lay-out (https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)|Homework 2 (movie review)|
 
