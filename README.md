@@ -80,4 +80,6 @@ Day | Lecture | Reading    | Homeworks
 |Tuesday, Jan 29 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture4.pdf">Lecture 4: CSS IDs </a>| CSS: IDs and Classes (https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)|In-Class: resume.html|
 |Friday, Feb 1 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture5.pdf">Lecture 5: CSS box model </a>| CSS Box model (https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)||
 |Tuesday, Feb 5 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture6.pdf">Lecture 6: CSS lay-out </a>| CSS lay-out (https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)|Homework 2 (movie review)|
+|Friday, Feb 8 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture7.pdf">Lecture 7: CSS review </a>| CSS page layout review (http://www.webstepbook.com/samples/ch04-layout.pdf)|Homework 2 (movie review)|
+
 
