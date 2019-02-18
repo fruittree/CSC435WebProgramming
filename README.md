@@ -82,4 +82,5 @@ Day | Lecture | Reading    | Homeworks
 |Tuesday, Feb 5 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture6.pdf">Lecture 6: CSS lay-out </a>| CSS lay-out (https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)|Homework 2 (movie review)|
 |Friday, Feb 8 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture7.pdf">Lecture 7: CSS review </a>| CSS page layout review (http://www.webstepbook.com/samples/ch04-layout.pdf)|<a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Homework/Homework2/Homework2_MovieReview.pdf">Homework 2(movie review) </a>|
 |Tuesday, Feb 12 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture8.pdf">Lecture 8: Starting JavaScript </a>| JavaScript Data Types (https://eloquentjavascript.net/01_values.html)|Homework 3|
+|Friday, Feb 15 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture9.pdf">Lecture 9: JavaScript Function, Event-driven Programmiong </a>| JavaScript Function and Array (https://eloquentjavascript.net/04_data.html)|Homework 3|
 
