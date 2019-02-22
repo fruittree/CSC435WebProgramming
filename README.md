@@ -7,7 +7,7 @@ Location: DMTI Room 110
 Office: DMTI Room 204
 First Class: Jan 15th
 
-Office hour: Tuesday, 3-4pm, Friday, 3-4pm or by Appointment
+Office hour: Tuesday, 3-4pm, Thursday, 11-noon or by Appointment
 
 
 # General Information
