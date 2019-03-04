@@ -84,5 +84,4 @@ Day | Lecture | Reading    | Homeworks
 |Tuesday, Feb 12 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture8.pdf">Lecture 8: Starting JavaScript </a>| JavaScript Data Types (https://eloquentjavascript.net/01_values.html)|Homework 3|
 |Friday, Feb 15 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture9.pdf">Lecture 9: JavaScript Function, Event-driven Programmiong </a>| JavaScript Function and Array (https://eloquentjavascript.net/04_data.html)|Homework 3|
 |Tuesday, Feb 19 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture10.pdf">Lecture 10: JavaScript Objects </a>| JavaScript objects (https://eloquentjavascript.net/06_object.html)|In-class Exercises|
-
 |Friday, Feb 22 | <a href="">Lecture 11: Unobtrusive JS, , Events, OOP </a>| Unobtrusive JS (https://www.codeproject.com/Articles/878436/Lets-Write-Unobtrusive-JavaScript)|In-class Exercises|
