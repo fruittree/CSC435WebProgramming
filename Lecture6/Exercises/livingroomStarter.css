@@ -1,0 +1,59 @@
+p{
+    
+    text-align:center;
+/*  your code*/
+    
+}
+#front-door{
+/*  your code*/
+   
+}
+#kitchen{
+	width: 300px;
+	height:100px;
+    margin: auto;
+    
+    border: 2px solid red;
+    border-radius: 10px
+    
+	padding: 10px; 
+        
+    
+    /*  finish here*/
+
+}
+#lounge{
+	width: 300px;
+	height:100px;
+    margin: auto;
+      /*  finish here*/
+}
+
+#bedroom{
+	width: 300px;
+	height:100px;
+    margin: auto;
+
+  /*  finish here*/
+}
+
+#bathroom{
+	width: 300px;
+	height:100px;
+    margin: auto;
+  /*  finish here*/
+}
+#freezer{
+	width: 150px;
+	height:50px;
+    margin: auto;
+  /*  finish here*/
+}
+#fridge p 
+  {
+    /*  finish here*/
+}
+#front-door #bathroom #sink p
+  {
+    /*  finish here*/
+  } 

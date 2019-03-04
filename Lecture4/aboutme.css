@@ -1,0 +1,41 @@
+/*
+This is a comment.
+It can span manylines in a CSS file. 
+*/
+
+
+#my-id{
+/*    properties*/
+}
+
+body{
+/*    background-color:yellow;*/
+    font-family: georgia ;
+    font-size:18pt;
+}
+
+p.blue_paragraphs{
+    color:blue;
+}
+p.center{
+    text-align: center;
+    color: red;
+}
+p.large{
+ font-size:300%;
+}
+
+li > strong { text-decoration: underline; }
+
+/*
+p{background-color:aqua;color:red;}
+a{text-decoration:overline udnerline;}
+h2{font-weight:bold; 
+text-align:center;}
+*/
+
+a:link{color:#FF0000;}
+
+a:visited{color:#00FF00;}
+
+a:hover{ color:#FF00FF;}

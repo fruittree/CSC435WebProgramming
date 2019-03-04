@@ -1,0 +1,46 @@
+body {
+	background-color: #00FFAB;
+}
+
+#container {
+	margin: auto;
+	width: 600px;
+}
+
+#myCanvas {
+	background-color: #000000;
+	border: 3px red solid;
+
+}
+
+#gameover {
+	position : absolute;
+	top: 200px;
+	left: 600px;
+	font-size: 25px;
+	text-align: center;
+	color: #FFFFFF;
+	display: none;
+}
+
+#score {
+	width: 600px;
+	height: 100px;
+	margin: auto;
+	background-color: grey;
+}
+
+#current, #highest {
+	font-size : 25px;
+	color: black;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color : #FFFFFF;
+}
+
+span {
+	color : #FFFFFF;
+}

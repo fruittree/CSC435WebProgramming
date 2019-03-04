@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<title>setTimeOut</title>
+<script type="text/javascript">
+window.onload = function() {
+  document.getElementById("clickme").onclick = delayedMessage;
+};
+
+function delayedMessage() {
+  document.getElementById("output").innerHTML = "Wait for it...";
+  setTimeout(sayBooyah, 5000);
+}
+
+function sayBooyah() {   // called when the timer goes off
+  document.getElementById("output").innerHTML = "BOOYAH!";
+}                                                                    
+</script>
+</head>
+<body>
+<h2>setTimeout</h2>
+<button id="clickme">Click me!</button>
+<span id="output"></span>                                   
+</body>
+</html>

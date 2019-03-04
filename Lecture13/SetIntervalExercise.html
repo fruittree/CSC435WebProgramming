@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>setInterval/clearInterval example</title>
+  <script>
+    var nIntervId;
+    function changeColor(){
+      nIntervId = setInterval(flashText,1000);
+    }
+      //here use setInterval to call flashText 
+      
+    function flashText(){
+      paragraph = document.querySelector("p");
+      if (paragraph.style.color == "red"){
+          paragraph.style.color = 'blue';
+      }
+      else{
+          paragraph.style.color = 'red';
+      }
+        
+    }
+     // here change the text color
+    function stopTextColor(){
+        clearInterval(nIntervId);
+    }
+      
+      // here clear the setInterval with the timer id.
+  </script>
+</head>
+ 
+<body onload="changeColor();">
+  <div id="my_box">
+    <p>Hello World</p>
+    <p>Welcome to AU!</p>
+  </div>
+
+  <button onclick="stopTextColor();">Stop</button>
+</body>
+</html>

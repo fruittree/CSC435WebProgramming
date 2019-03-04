@@ -1,0 +1,77 @@
+<html>
+<head>
+<style type="text/css">
+#example {
+ float:left;
+}
+#example div {
+}
+
+#div-before, #div-after {
+ background-color:#88d;
+ color:#000;
+}
+#div-1 {
+position:relative;
+ width:400px;
+ background-color:#000;
+ color:#fff;
+}
+
+#div-1-padding {
+ padding:10px;
+}
+#div-1a {
+position:absolute;
+top:0;
+right:0;
+ width:200px;
+ background-color:#d33;
+ color:#fff;
+ width: 190px;
+}
+#div-1b {
+ background-color:#3d3;
+ color:#fff;
+ width:190px;
+}
+#div-1c {
+ background-color:#33d;
+ color:#fff;
+ width: 300px;
+ clear:both;
+}
+</style>
+</head>
+<body>
+<div id="example">
+<div id="div-before">
+<p>id = div-before</p>
+</div>
+
+<div id="div-1">
+<div id="div-1-padding">
+
+<p>id = div-1</p>
+
+<div id="div-1a">
+<p>id = div-1a</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer pretium dui sit amet felis. Integer sit amet diam. Phasellus ultrices viverra velit.</p>
+</div>
+
+<div id="div-1b">
+<p>id = div-1b</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Integer pretium dui sit amet felis. Integer sit amet diam. Phasellus ultrices viverra velit. Nam mattis, arcu ut bibendum commodo, magna nisi tincidunt tortor, quis accumsan augue ipsum id lorem.</p>
+</div>
+
+<div id="div-1c"><p>id = div-1c</p></div>
+
+</div></div><!-- /id=div-1-padding /id=div-1 -->
+
+<div id="div-after">
+<p>id = div-after</p>
+</div>
+
+</div><!-- /id=example -->
+</body>
+</html>

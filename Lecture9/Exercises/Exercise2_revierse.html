@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<script type ="text/javascript">
+    //solution 1
+//function rev_num()
+//{
+//var num = prompt("Enter the number to be reveresed :", " ");
+//var z = num.split("").reverse().join("");
+//var rev = Number(z);
+//    
+//document.write("The given number is : " +num+ " <br/> The reversed number is : " +rev+ "\n");
+//}
+    
+ //solution 2 only works for integer
+    
+function rev_num() {
+    numstring = prompt("Enter the number to be reveresed :", " ")
+    n = parseInt(numstring);
+    
+    for(var r = 0; n; n = Math.floor(n / 10)) {
+        r *= 10;
+        r += n % 10;
+    }
+    document.write("The given number is : " +numstring+ " <br/> The reversed number is : " +r+ "\n");
+}
+    
+</script>
+<body onload="rev_num();">
+<!-- when the page gets loaded rev_num() function gets called -->
+</body>
+</html>

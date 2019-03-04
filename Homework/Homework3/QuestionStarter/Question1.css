@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+}
+
+div {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+h1 {
+	margin: 0;
+}
+
+.pass {
+	background-color: #cfc;
+	font-weight: bold;
+}
+
+.fail {
+	background-color: #fcc;
+	font-style: italic;
+}

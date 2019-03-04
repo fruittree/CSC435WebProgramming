@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Homework 3</title>
+
+</head>
+<body>
+<script type="text/javascript">
+var x, message;
+x = 50;
+message = "x is equal to ";
+document.write (message); // prints the value of the message variable
+document.write (x); //prints the value of x
+document.write ('<br>');
+
+for (var n=1; n<=10; n++){
+	document.write('n equal to ');
+	document.write(n + '<br>');
+}
+
+//date()
+
+today=new Date();
+
+var birthday = new Date('April 3, 1981');
+var thisyear =today.getFullYear(); // result would be 2016
+var spring_break_date = new Date(thisyear,2,6);
+//var unixTimestamp = Date.now(); // in milliseconds
+
+document.write("<br>" + "Today's date "+today);
+
+document.write("<br>" + "My birthday is "+birthday);
+
+document.write("<br>" + "the springbreak is" + spring_break_date);
+
+//document.write("current time is " + unixtTimesstamp);
+
+
+</script>
+
+</script>
+
+</body>
+</html>

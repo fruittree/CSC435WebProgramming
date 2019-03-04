@@ -1,0 +1,61 @@
+p{
+	text-align:center;
+}
+#front-door{
+	font-family: Georgia;
+}
+#kitchen{
+	width: 300px;
+	height:100px;
+	margin: auto;
+	padding: 10px; 
+	border:1px solid red;
+	border-radius: 10px
+}
+
+
+#lounge{
+	width: 300px;
+	height:100px;
+	margin: auto;
+	margin-top:20px;
+	padding: 10px; 
+	border:1px solid blue;
+	border-radius: 10px
+}
+
+#bedroom{
+	width: 300px;
+	height:100px;
+	margin: auto;
+	margin-top:20px;
+	padding: 10px; 
+	border:1px solid green;
+	border-radius: 10px
+}
+
+#bathroom{
+	width: 300px;
+	height:100px;
+	margin: auto;
+	margin-top:20px;
+	padding: 10px; 
+	border:1px solid pink;
+	border-radius: 10px
+}
+#freezer{
+	width: 150px;
+	height:50px;
+	background-color: red;
+	margin: auto;
+	border:1px solid black;
+	border-radius: 5px
+}
+#fridge p 
+  {
+  font-weight: bold;
+}
+#front-door #bathroom #sink p
+  {
+  	font-style: italic
+  } 
