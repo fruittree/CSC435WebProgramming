@@ -86,7 +86,6 @@ Day | Lecture | Reading    | Homeworks
 |Tuesday, Feb 19 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture10.pdf">Lecture 10: JavaScript Objects </a>| JavaScript objects (https://eloquentjavascript.net/06_object.html)|In-class Exercises (https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture10/SmallestNumber.html)|
 |Friday, Feb 22 | <a href="">Lecture 11: Unobtrusive JS, , Events, OOP </a>| Unobtrusive JS (https://www.codeproject.com/Articles/878436/Lets-Write-Unobtrusive-JavaScript)|In-class Exercises|
 |Friday, Feb 26 | <a href="">Lecture 12: JavaScript Objects</a>| Unobtrusive JS (http://eloquentjavascript.net/04_data.html)|In-class Exercises|
-<!--|Tuesday, Feb 26 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture12.pdf">Lecture 12: JavaScripts Objects </a>| JavaScript Objects (http://eloquentjavascript.net/04_data.html
-)|In-class Exercises (https://github.com/fruittree/CSC435WebProgramming/tree/master/Lecture12)|-->
+
 
 
