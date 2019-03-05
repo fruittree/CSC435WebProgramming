@@ -85,7 +85,7 @@ Day | Lecture | Reading    | Homeworks
 |Friday, Feb 15 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture9.pdf">Lecture 9: JavaScript Function, Event-driven Programmiong </a>| JavaScript Function and Array (https://eloquentjavascript.net/04_data.html)|Homework 3|
 |Tuesday, Feb 19 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture10.pdf">Lecture 10: JavaScript Objects </a>| JavaScript objects (https://eloquentjavascript.net/06_object.html)|In-class Exercises (https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture10/SmallestNumber.html)|
 |Friday, Feb 22 | <a href="">Lecture 11: Unobtrusive JS, , Events, OOP </a>| Unobtrusive JS (https://www.codeproject.com/Articles/878436/Lets-Write-Unobtrusive-JavaScript)|In-class Exercises|
-|Friday, Feb 22 | <a href="">Lecture 11: Unobtrusive JS, , Events, OOP </a>| Unobtrusive JS (https://www.codeproject.com/Articles/878436/Lets-Write-Unobtrusive-JavaScript)|In-class Exercises (https://github.com/fruittree/CSC435WebProgramming/tree/master/Lecture11)|
-|Tuesday, Feb 26 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture12.pdf">Lecture 12: JavaScripts Object </a>| JavaScript Object (http://eloquentjavascript.net/04_data.html
+|Friday, Feb 22 | <a href="">Lecture 11: Unobtrusive JS, , Events, OOP </a>| Unobtrusive JS (https://www.codeproject.com/Articles/878436/Lets-Write-Unobtrusive-JavaScript)|In-class Exercises|
+|Tuesday, Feb 26 | <a href="https://github.com/fruittree/CSC435WebProgramming/blob/master/Lecture12.pdf">Lecture 12: JavaScripts Objects </a>| JavaScript Objects (http://eloquentjavascript.net/04_data.html
 )|In-class Exercises (https://github.com/fruittree/CSC435WebProgramming/tree/master/Lecture12)|
 
